@@ -1,6 +1,6 @@
 # Hi there 👋 I am Daniel
 
- Junior Web Dev, 🐧linux and Programming Enthusiast using manjaro i3
+ Junior Web Dev, 🐧linux user
 
 
 ## 🌱 I’m currently learning:
