@@ -3,7 +3,7 @@
  Junior Web Dev, 🐧linux user
 
 
-## 🌱 I’m currently learning:
+## 🌱 I’m continuously learning:
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
   <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
